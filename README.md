@@ -1,6 +1,24 @@
-# Ecomerce_Front
-Frontend de pagina ecomerce basada en REACT
+# Offside Ecommerce Fronted 
 
-En el FrontEnd esta todo lo que tiene que ver con la visualizacion de la pagina web y su logica de navegabilidad desde servicios, paginas, urls etc.
+Frontend de la tienda offside basada en REACT-REDUX
 
-Para correr el programa primero descargar librerias en requiremens.txt si dan error en vez de descargar usar 'npm install <package-name> --legacy-peer-deps' esto se detalla en el setup guide en el backend en el repo EncoraEcommerce. Despues de descargar podes estar en la ruta 'Ecomerce_Front/front' y usar el commando 'npm start'. NECESARIO TENER EL BACK Y FRONT CORRIENDO AL TIEMPO PARA VISUALIZACION DE PRODUCTOS, LOGIN, ETC.
+
+
+**Hero Page**
+![image](https://github.com/user-attachments/assets/dc7e0c83-6e61-4cea-9caa-2e0ed14b3e22)
+![image](https://github.com/user-attachments/assets/5bb46e21-bf8e-43db-9ebc-fee477c19ac3)
+
+
+**Products List**
+![image](https://github.com/user-attachments/assets/877d77b6-acd3-4388-b2a1-06715a54becd)
+![image](https://github.com/user-attachments/assets/7fdbc62c-99e2-47c2-8b52-8fa469122d14)
+![image](https://github.com/user-attachments/assets/f9c31449-d88e-4c07-8671-8cec8d41d2bf)
+
+**Login**
+![image](https://github.com/user-attachments/assets/d3195242-ce1e-4f94-b8ad-023d013e9ba7)
+
+**Shopping Cart**
+![image](https://github.com/user-attachments/assets/b8219cf0-8964-4a6e-b86b-60cf5d94acdf)
+
+
+
